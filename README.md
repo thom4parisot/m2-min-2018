@@ -1,9 +1,5 @@
 # Programmation Web
 
-> Cours de développement web pour le Master 2 « Innovation et Transformation Numérique » de TélécomParisTech.
-
-# Ressources et références
-
 - http://oncletom.io/node.js/
 - https://developer.mozilla.org/fr/docs/Web
 
