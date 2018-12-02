@@ -1,0 +1,30 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-style: italic;
+  color: red;
+}
+
+.slides {
+  width: 256px;
+  height: 256px;
+  scroll-snap-type: y proximity;
+  overflow: auto;
+}
+
+.slide {
+
+width: 256px;
+    height: 256px;
+}
+  .slide:nth-child(1) {
+    background: red;
+  } 
+  .slide:nth-child(2) {
+    background: blue;
+  } 
