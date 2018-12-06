@@ -40,4 +40,4 @@
 
 # Les trucs qui nous posent problème dans d'autres cours
 
-- GitHub Pages / Desktop ?
+- GitHub Pages / Github Desktop ? Le changement enregistré sur Github desktop n'était pas enregistré sur Github Pages.
