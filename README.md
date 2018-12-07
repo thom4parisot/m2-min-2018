@@ -2,9 +2,18 @@
 
 > Cours de développement web pour le Master 2 « Innovation et Transformation Numérique » de TélécomParisTech.
 
-# Ressources et références
- - http://oncletom.io/node.js/
+# Ressources, références et outils
+
+## Développement
+
+- http://oncletom.io/node.js/
 - https://developer.mozilla.org/fr/docs/Web
+
+## Design graphique
+
+- https://www.figma.com
+- https://www.sketchapp.com/
+- https://www.invisionapp.com/
 
 # Ce que vous connaissez
 
@@ -29,7 +38,7 @@
 - apprendre PHP
 - les bases : ce qu'il y a de plus utile, pouvoir parler avec les devs, comment leur demander le plus optimal ; en étant au marketing j'avais plein de suggestions mais aucune idée de la complexité pour peut-être un impact faible (des fois la com' entre nous n'est pas transparente) ; j'ai envie de comprendre ce que l'autre fait
 
-# Questions
+# Questions de départ
 
 - différence entre front et back ?
 - comment différencier/distinguer les langages, leur utilité
