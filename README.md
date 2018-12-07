@@ -2,6 +2,8 @@
 
 > Cours de développement web pour le Master 2 « Innovation et Transformation Numérique » de TélécomParisTech.
 
+📖 [**Journal d'apprentissage des étudiant·es**](JOURNAL.md)
+
 # Ressources, références et outils
 
 ## Développement
