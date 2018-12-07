@@ -15,6 +15,33 @@
 - https://www.sketchapp.com/
 - https://www.invisionapp.com/
 
+## Agilité
+
+- http://manifesteagile.fr
+
+### Compréhension des étudiant·es
+
+- des projets qui prennent du temps et de l'argent, c'est pour aller plus vite, pour dépasser un modèle organisationnel qui prend trop de temps ; LA méthode agile, vision long-termite d'un produit mais livrer à court terme, des livrables, pour voir un produit sortir et le tester. Prendre le marché en compte. Pluridisciplinarité des profils.
+- c'est aussi comment on l'applique en vrai. Implication forte du client. Beaucoup de boucles d'itérations, étape par étape, on voit le client à chaque fois pour voir si ça roule ou pas.
+- Une méthodologie de gestion de projet, pour aboutir à un produit viable (MVP), pour éviter d'engager des ressources engageantes. Itérative. Éviter la perte d'informations d'un acteur à l'autre. Enlever les silos. Faire collaborer les usagers avec culture du feedback. Perfectionnement permanent.
+- le problème c'est la compréhension de l'agile, tout le monde peut tout faire, y'a pas de vraiment de postes et de compétences.
+- tout le monde charrette donc n'a pas le temps d'appliquer. Tyrannie du « il faut il faut »
+- la logique de vente vient ajouter une pression monstre à l'équipe des Product Owner, sans trop considérer la notion de produit
+
+### Compréhension de Thomas
+
+- Amélioration continue
+- Livrer plus vite
+- Définir les attentes
+- Prioriser (par rapport à ce qui apporte de la valeur, par rapport au focus de l'itération)
+- Qualité
+- Dialogue permanent
+- Consentement
+- Processus engageant (des gens qui font, des gens qui décident — les _stakeholders_)
+- Gérer les risques
+- Préserver les énergies
+
+
 # Ce que vous connaissez
 
 - (Télécom) déjà suivi cours de devweb (HTML, CSS, JS), Python, R, des notions sans grande mise en pratique
