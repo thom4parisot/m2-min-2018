@@ -21,6 +21,10 @@
 
 - http://manifesteagile.fr
 
+## Apprendre en ligne / Mooc
+
+- https://www.khanacademy.org
+
 ### Compréhension des étudiant·es
 
 - des projets qui prennent du temps et de l'argent, c'est pour aller plus vite, pour dépasser un modèle organisationnel qui prend trop de temps ; LA méthode agile, vision long-termite d'un produit mais livrer à court terme, des livrables, pour voir un produit sortir et le tester. Prendre le marché en compte. Pluridisciplinarité des profils.
