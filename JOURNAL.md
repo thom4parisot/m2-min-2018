@@ -1,5 +1,26 @@
 # Journal
 
+## Mercredi 12 décembre
+
+### Ce que j'ai retenu de la session précédente
+
+- je suis reparti avec l'envie de faire un dépôt GitHub perso, et de suivre des projets sur GitHub
+- j'étais pas là et je regrette
+- même si ça paraissait abstrait ce qu'on avait à faire, ça me paraissait faisable, c'était pas si compliqué que ça
+- je suis repartie avec "enfin" une compréhension des méthodes agiles
+
+### Mes ressentis de cette session
+
+- j'ai essayé de faire un graph dynamique en Python, ça ne marche pas encore, mais je ne suis pas loin !
+- je repars avec un bug ! Je n'ai pas réussi à faire ma ligne dynamique
+- on a arrangé 2-3 petits trucs, c'était utile
+- j'ai compris des trucs de base, et demain j'aimerais être un peu plus proactive pour apprendre plus
+- j'ai eu des réponses à mes questions, il y en a d'autres où je n'ai pas de réponses ; ça m'a donné envie de regarder Vega Lite
+- j'ai bien aimé apprendre des trucs sur `display`
+- j'ai bien aimé la partie théorique sur `display`
+- j'ai bien aimé la nouvelle structure du cours, on connait le déroulement de la séance, de voir toutes ensemble le problème et avancer de manière assez libre
+
+
 ## Jeudi 6 décembre
 
 - je suis contente car ça a été bien structuré (j'aime bien savoir où on va, c'était visuel) ; je suis satisfaite de ce fonctionnement de cours avec backlog ; ça fait une bonne transition avec la vie active ; vivement la semaine prochaine
