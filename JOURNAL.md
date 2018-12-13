@@ -1,5 +1,15 @@
 # Journal
 
+## Jeudi 13 décembre
+
+- je suis encore énervée d'avoir dû partir en plein milieu du cours et d'en rater un bout ; je vais essayer de faire ce qui a fait cette session pour mieux comprendre ; je commence à comprendre !
+- c'est de moins en moins du chinois ; je vais essayer de faire un truc concret pour la semaine prochaine, pour ancrer ça, pour faire toute seule
+- je suis contente mais c'était pénible d'être coupé dans notre élan ; le fait d'être peu et de travailler sur un même ordinateur, pour avancer et s'apprendre des choses ; j'ai consolidé ce que j'ai pu apprendre hier
+- je suis contente entre l'équilibre (merci pour les viz !), et passer à des trucs un peu plus théoriques ; j'ai bien aimé cet équilibre ; revoir un code qu'on a fait, c'est bien, c'est une meilleure utilisation du temps en cours
+- j'ai bien aimé travailler à plusieurs sur un seul ordi ; on peut faire les choses sur son propre ordinateur si on a envie
+- j'étais pas là mais ça avait l'air bien
+- je n'ai pas pu me lancer encore dans les vis, donc ça me donne l'occasion de m'y mettre pour la semaine prochaine
+
 ## Mercredi 12 décembre
 
 ### Ce que j'ai retenu de la session précédente
