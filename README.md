@@ -11,6 +11,12 @@
 - http://oncletom.io/node.js/
 - https://developer.mozilla.org/fr/docs/Web
 
+## Sélecteurs CSS
+
+- https://flukeout.github.io/
+- http://toolness.github.io/css-selector-game/
+- https://benhowdle.im/cssselectors/
+
 ## Design graphique
 
 - https://www.figma.com
