@@ -4,6 +4,20 @@
 
 ![](images/IMG_20181213_185827.jpg)
 
+### Agenda
+
+Cette session, l'agenda a été mouvant car le groupe n'était pas au complet, et une partie du groupe avait une soutenance de projet en parallèle, pendant une partie du cours.
+
+1. ~~Météo interne~~
+2. Revue de code
+3. Mob programming
+4. Pause
+5. Théorie/Explications (sélecteurs CSS)
+6. Planification de l'itération ([résultat](https://github.com/oncletom/m2-transfo-num/projects/4))
+7. Clôture
+
+### Mes ressentis de cette session
+
 - je suis encore énervée d'avoir dû partir en plein milieu du cours et d'en rater un bout ; je vais essayer de faire ce qui a fait cette session pour mieux comprendre ; je commence à comprendre !
 - c'est de moins en moins du chinois ; je vais essayer de faire un truc concret pour la semaine prochaine, pour ancrer ça, pour faire toute seule
 - je suis contente mais c'était pénible d'être coupé dans notre élan ; le fait d'être peu et de travailler sur un même ordinateur, pour avancer et s'apprendre des choses ; j'ai consolidé ce que j'ai pu apprendre hier
@@ -15,6 +29,17 @@
 ## Mercredi 12 décembre
 
 ![](images/IMG_20181212_170229.jpg)
+
+### Agenda
+
+1. Météo interne
+2. 1 truc important (que j'ai retenu de la dernière fois)
+3. Revue de code
+4. Production + Théorie/Explications
+5. Pause
+6. Production + Théorie/Explications
+7. ~~Production + Théorie/Explications~~
+8. Clôture
 
 ### Ce que j'ai retenu de la session précédente
 
@@ -39,6 +64,19 @@
 
 ![](images/IMG_20181206_173436.jpg)
 
+### Agenda
+
+1. Météo interne
+2. Pourquoi le développement web ?
+3. Les méthodes agiles : Scrum et Kanban
+4. Temps des Questions
+5. Planification de l'itération ([résultat](https://github.com/oncletom/m2-transfo-num/projects/1))
+6. Production
+7. Temps des questions
+8. Clôture
+
+### Mes ressentis de cette session
+
 - je suis contente car ça a été bien structuré (j'aime bien savoir où on va, c'était visuel) ; je suis satisfaite de ce fonctionnement de cours avec backlog ; ça fait une bonne transition avec la vie active ; vivement la semaine prochaine
 - je suis aussi contente de ce cadre ; on voulait un cadre mais on savait pas celui qu'on voulait, et là ça me va ; j'ai bien apprécié les étapes, un mur avec les questions, ça sera surtout utile pour les prochains cours ; c'est bien de se fixer des objectifs sur une semaine — je ne sais pas comment on fera la semaine prochaine quand on aura 2 cours par semaine
 - je suis complètement d'accord, j'ai bien aimé ce mode de fonctionnement
@@ -47,7 +85,7 @@
 - j'ai apprécié le cours, j'ai envie de mettre ça plus en pratique ; je suis conscient que ce sont des attentes assez vagues
 - j'aime bien les discussions pendant les cours mais quand y'a trop de discussions, je perds le fil ; j'ai hâte de la mise en pratique
 
-![](images/IMG_20181206_173436.jpg)
+![](images/IMG_20181206_173511.jpg)
 
 ## Jeudi 29 novembre
 
