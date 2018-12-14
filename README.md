@@ -4,6 +4,8 @@
 
 📖 [**Journal d'apprentissage des étudiant·es**](JOURNAL.md)
 
+![](images/IMG_20181206_173511.jpg)
+
 # Ressources, références et outils
 
 ## Développement
@@ -66,7 +68,7 @@
 - (SCPO) bases, j'aimais pas trop apprendre toute seule, HTML et CSS
 - (SCPO) HTML et CSS dans mon coin
 - (SCPO) pas d'expérience particulière
-- (Télécom) pas de cours, systèmes embarqués, C, C++, Java, JavaScript, quelques notions de HTML/CSS 
+- (Télécom) pas de cours, systèmes embarqués, C, C++, Java, JavaScript, quelques notions de HTML/CSS
 
 # Ce que vous avez envie d'apprendre
 
