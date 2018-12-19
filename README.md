@@ -19,6 +19,13 @@
 - http://toolness.github.io/css-selector-game/
 - https://benhowdle.im/cssselectors/
 
+## Transformer des données
+
+- https://csvkit.readthedocs.io
+- http://www.convertcsv.com/csv-to-geojson.htm
+- http://geojson.io
+- https://adresse.data.gouv.fr/csv
+
 ## Design graphique
 
 - https://www.figma.com

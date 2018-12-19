@@ -1,5 +1,38 @@
 # Journal
 
+## Mercredi 19 décembre
+
+![](images/IMG_20181219_170430.jpg)
+
+### Ce que j'ai retenu de la dernière fois
+
+- il faut toujours faire attention de toujours lier l'URL dans le header (script) avec le code ; et de faire attentions aux majuscules dans les intitulés (variables, JSON, etc.)
+- les sélecteurs CSS ; la session mob programming avait l'air pas mal ! J'ai hâte de tester aujourd'hui
+- les sélecteurs — c'était évident sur le coup ; j'ai réalisé que j'avais besoin de pratiquer pour retenir. C'est pas difficile mais ça demande de l'autonomie pour retenir
+- flexbox, pour que les éléments s'affichent à la suite
+- l'affichage des polices diffèrent selon les ordinateurs
+
+### Dessine-moi… Internet !
+
+![](images/IMG_20181219_170420.jpg)
+
+Ce qu'on a regardé ensemble suite à ça :
+
+- https://www.youtube.com/watch?v=0TZwiUwZwIE
+- https://www.submarinecablemap.com
+- https://www.datacenterdynamics.com/news/google-plans-to-double-singapore-data-center-footprint/
+
+### C'était comment pour moi aujourd'hui ?
+
+- j'ai bien aimé visualiser Internet
+- la discussion autour d'Internet a permis de mieux comprendre comment ça fonctionne (je ne savais pas pour les câbles dans l'eau — y'a pas de nuage, je suis un peu triste mais bon !) ; la session sur JS aussi (et de comprendre que c'est compliqué) ; travailler toutes ensemble ; float:left en HTML ; la différence entre `window` et un `<script>`
+- créer la map interactive ; on voulait absolument en mettre une mais on avait galéré à le faire
+- c'est passé très rapidement ; j'ai bien aimé le site de umap et travailler dessus ; je me suis sentie limitée sur la taille des cercles (banal mais pratique ; Alors que Tableau c'est l'inverse) ; la visualisation d'Internet
+- j'ai bien aimé Internet et la discussion ; le travail au vidéo projecteur c'est pas mal mais on ne va pas très vite, mais on comprend bien ce qui se passe — peut-être parce que je n'ai pas travaillé dessus entre 2 sessions
+- c'était mon dernier cours, demain je ne pourrai pas être là :-(
+
+![](images/IMG_20181219_180836.jpg)
+
 ## Jeudi 13 décembre
 
 ![](images/IMG_20181213_185827.jpg)
