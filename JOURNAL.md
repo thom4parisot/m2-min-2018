@@ -1,10 +1,56 @@
 # Journal
 
+## Jeudi 20 décembre
+
+![](images/IMG_20181220_170813.jpg)
+
+### Agenda
+
+1. Ce que j'aimerais apprendre de JavaScript
+2. Revue de code
+3. JavaScript • Les bases
+4. Pause
+5. JavaScript • Coder un jeu où on doit faire deviner un nombre
+6. ~~Mob programming~~
+7. Rétrospective
+8. Clôture
+
+### Ce que je veux apprendre de JavaScript
+
+- les notions de base pour utiliser JS sur un site
+- la différence entre variable et fonction
+- faire des animations/bandeaux déroulants
+- comprendre comment ça fonctionne "en général"
+- Bootstrap ou autres, pour avoir des blocs de code réutilisables
+- outils pour apprendre JavaScript
+- orienté objet en JavaScript
+
+### C'était comment pour moi aujourd'hui ?
+
+- j'ai raté la moitié de la séance parce que soutenance ; le jeu c'était cool, j'ai compris comment ça marchait
+- ça a été dur de rattraper en cours de route ; j'aurais pu faire l'effort mais je ne l'ai pas fait
+- intéressante la partie où on expliquait JavaScript, et le jeu ; la première partie du jeu était accessible, après c'est devenu trop, j'étais pas au top de ma forme donc ça doit jouer, je pense
+- moi c'est l'inverse, ça m'a rafraîchi la mémoire
+- j'ai pas eu l'impression d'apprendre quelque chose de nouveau, à part des notions sur la syntaxe (`in` et `for`), enfin des détails
+- pareil, je ne pense pas avoir appris grand chose mais le format est plutôt sympa, le fait de le faire avec glitch pour que tout le monde participe, ça me va
+
 ## Mercredi 19 décembre
 
 ![](images/IMG_20181219_170430.jpg)
 
-### Ce que j'ai retenu de la dernière fois
+### Agenda
+
+1. Météo interne
+2. Qu'est-ce que j'ai retenu de la dernière fois ?
+3. Dessine-moi… Internet !
+4. Revue de code
+5. Pause
+6. Mob Programming
+7. ~~Théorie / Production~~
+8. ~~Théorie / Production~~
+9. Clôture
+
+### Ce que j'ai retenu de la dernière fois ?
 
 - il faut toujours faire attention de toujours lier l'URL dans le header (script) avec le code ; et de faire attentions aux majuscules dans les intitulés (variables, JSON, etc.)
 - les sélecteurs CSS ; la session mob programming avait l'air pas mal ! J'ai hâte de tester aujourd'hui

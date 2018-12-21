@@ -1,6 +1,6 @@
 # Programmation Web
 
-> Cours de développement web pour le Master 2 « Innovation et Transformation Numérique » de TélécomParisTech.
+> Cours de développement web avec le Master 2 « Innovation et Transformation Numérique » de Télécom ParisTech, promotion 2018/2019.
 
 📖 [**Journal d'apprentissage des étudiant·es**](JOURNAL.md)
 
@@ -12,6 +12,8 @@
 
 - http://oncletom.io/node.js/
 - https://developer.mozilla.org/fr/docs/Web
+- https://www.khanacademy.org/computing/computer-programming/html-css
+- https://www.khanacademy.org/computing/computer-programming/html-css-js
 
 ## Sélecteurs CSS
 
@@ -35,6 +37,7 @@
 ## Agilité
 
 - http://manifesteagile.fr
+- https://retromat.org
 
 ## Apprendre en ligne / Mooc
 
